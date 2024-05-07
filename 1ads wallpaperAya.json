@@ -6,10 +6,10 @@
   
  "AdsController": {
       
-    "BannerNetwork"           : "huawei",
+    "BannerNetwork"           : "unity",
     "InterstitialNetwork"     : "unity",
-    "NativeNetwork"           : "huawei",
-    "OpenAdNetwork"           : "yandex",
+    "NativeNetwork"           : "unity",
+    "OpenAdNetwork"           : "unity",
    
     "IntervalClick"           : 1,
     
@@ -33,10 +33,10 @@
     "Huawei_Native"           : "testy63txaom86",
     "Huawei_RewardAd"         : "testx9dtjwj8hp",
     
-    "Unity_GameID"            : "4076527",
-    "Unity_Banner"            : "BannerAd",
-    "Unity_InterstitialAd"    : "InterstitialAd",
-    "Unity_RewardAd"          : "rewardedVideo"
+    "Unity_GameID"            : "5612567",
+    "Unity_Banner"            : "Banner Android",
+    "Unity_InterstitialAd"    : "Interstitial Android",
+    "Unity_RewardAd"          : "Rewarded Android"
 
   }
 }
