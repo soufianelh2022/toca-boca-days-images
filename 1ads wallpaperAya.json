@@ -34,9 +34,9 @@
     "Huawei_RewardAd"         : "testx9dtjwj8hp",
     
     "Unity_GameID"            : "5612567",
-    "Unity_Banner"            : "Banner Android",
-    "Unity_InterstitialAd"    : "Interstitial Android",
-    "Unity_RewardAd"          : "Rewarded Android"
+    "Unity_Banner"            : "Banner_Android",
+    "Unity_InterstitialAd"    : "Interstitial_Android",
+    "Unity_RewardAd"          : "Rewarded_Android"
 
   }
 }
